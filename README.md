@@ -33,4 +33,4 @@ python upload_image.py image.jpg   # upload an image
 
 Vendor was contacted but did not respond. Full writeup: 
 
-**CWE-306** | [CVE Record](https://www.cve.org/CVERecord/SearchResults?query=CVE-2026-0842)
+**CWE-306** | [CVE Record](https://www.cve.org/CVERecord?id=CVE-2026-0842)
