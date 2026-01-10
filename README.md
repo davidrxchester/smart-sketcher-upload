@@ -1,1 +1,1 @@
-PoC for uploading images to the smART Sketcher 2.0 as an unauthenticated user
+PoC for CVE-2026-0842
